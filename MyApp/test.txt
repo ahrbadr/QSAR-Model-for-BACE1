@@ -1,0 +1,3 @@
+CN1C(=N)N[C@](C)(c2cc(NC(=O)c3ccc(F)cn3)ccc2F)CS1(=O)=O CHEMBL3301601
+CC#Cc1cncc(-c2ccc3c(c2)[C@@]2(N=C(C)C(N)=N2)[C@]2(CC[C@H](OC)CC2)C3)c1 CHEMBL3989948
+
